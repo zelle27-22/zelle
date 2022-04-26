@@ -1,0 +1,2 @@
+kubeadm join 172.31.16.52:6443 --token 3li1pc.mgm4eimn8nxs2gwz \
+        --discovery-token-ca-cert-hash sha256:98963dd4653c5cf361b864b5727fc7d93bdb62ec7705e4948f8c7820367766ea
